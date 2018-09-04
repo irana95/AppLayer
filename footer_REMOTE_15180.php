@@ -4,11 +4,7 @@
 			<div class="col-md-12">
 				
 				<div class="footer_top">
-<<<<<<< HEAD
-					<h4> Share Your Favorite Mobile Apps With Your Friends  </h4>
-=======
 					<h4> Share Your  Mobile With Your Friends  </h4>
->>>>>>> branch2
 					
 					<ul>
 						<li> <a href="http://facebook.com/"> <i class="fa fa-facebook" aria-hidden="true"></i> </a> </li>
