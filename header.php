@@ -30,7 +30,7 @@
         	<div class="header_top">
         		<div class="col-md-2">
             		<div class="logo_img">
-						<a href="#"><img src="http://test.webplus.az/wp-content/themes/AppLayers/images/logo.png" alt="logoimage"></a>
+						<a href="##"><img src="http://test.webplus.az/wp-content/themes/AppLayers/images/logo.png" alt="logoimage"></a>
 					</div>
 				</div>
 					
